@@ -15,8 +15,11 @@ Este repositório é destinado à organização dos conteúdos que estou produzi
 ## 📚 Conteúdo do Repositório
 
 📁 workshop-day1/ → Materiais, códigos e exercícios do primeiro dia do workshop
+
 📁 workshop-day2/ → Conteúdo prático e desafios abordados no segundo dia
+
 📁 desafio-tecnico/ → Solução do desafio técnico proposto pela Kobe
+
 📁 anotacoes/ → Insights, anotações e aprendizados do processo
 
 
