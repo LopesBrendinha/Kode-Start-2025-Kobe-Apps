@@ -1,17 +1,12 @@
-# 🚀 Kode Start 2025 | Kobe Apps — Dia 1: Workshop Flutter
+# 🚀 Kode Start 2025 | Kobe Apps — Dia 2: Workshop Flutter
 
 Este repositório contém os arquivos e anotações desenvolvidos durante o **primeiro dia do workshop técnico** do programa de estágio **Kode Start 2025**, promovido pela **Kobe Apps**.
 
-## 🗓️ Dia 1 – 04/08/2025
+## 🗓️ Dia 1 – 05/08/2025
 
 ### 🎯 Objetivos do dia
 
-- Introdução ao Flutter e Dart
-- Criação do primeiro projeto Flutter
-- Criação do projeto imc_app
-- Compreensão da estrutura de pastas e arquivos do projeto
-- Construção de interfaces básicas com widgets
-- Boas práticas de organização de código
+
 
 
 ### 🛠 Tecnologias
@@ -25,15 +20,7 @@ Este repositório contém os arquivos e anotações desenvolvidos durante o **pr
 
 ## 📁 Estrutura do repositório
 
-📦 workshop-day1
 
-┣ 📄 main.dart
-
-┣ 📁 couter
-
-┣ 📁 imc_app
-
-┗ 📄 README.md 
 
 ---
 
