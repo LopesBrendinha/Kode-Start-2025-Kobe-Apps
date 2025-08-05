@@ -9,6 +9,7 @@
 - Uso de `setState()` e controle de estado
 - Introdução a temas, cores customizadas e design system
 - Operador `??` e spread operator (`...`) no Dart
+- API TMDB
 
 ---
 
