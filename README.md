@@ -33,11 +33,9 @@ Este repositório é destinado à organização dos conteúdos que estou produzi
 
 ---
 
-## 👩‍💻 Sobre mim
-
-Sou estudante de Ciência da Computação e apaixonada por desenvolvimento mobile. Estou participando do Kode Start 2025 com o objetivo de aprender com profissionais experientes, me conectar com a comunidade e evoluir minhas habilidades com Flutter.
+**Brenda Lopes Levandoski**  
+Desenvolvedora Mobile | Ciência da Computação - UNICENTRO  
+[LinkedIn](https://www.linkedin.com/in/brenda-lopes-levandoski) | [GitHub](https://github.com/lopesbrendinha)
 
 ---
 
-📌 *Este repositório será atualizado ao longo do programa.*  
-📫 Sinta-se à vontade para acompanhar minha evolução!
